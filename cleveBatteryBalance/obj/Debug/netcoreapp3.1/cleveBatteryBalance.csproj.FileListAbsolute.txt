@@ -1,0 +1,13 @@
+C:\Users\Rob\source\repos\cleveBatteryBalance\cleveBatteryBalance\bin\Debug\netcoreapp3.1\cleveBatteryBalance.exe
+C:\Users\Rob\source\repos\cleveBatteryBalance\cleveBatteryBalance\bin\Debug\netcoreapp3.1\cleveBatteryBalance.deps.json
+C:\Users\Rob\source\repos\cleveBatteryBalance\cleveBatteryBalance\bin\Debug\netcoreapp3.1\cleveBatteryBalance.runtimeconfig.json
+C:\Users\Rob\source\repos\cleveBatteryBalance\cleveBatteryBalance\bin\Debug\netcoreapp3.1\cleveBatteryBalance.runtimeconfig.dev.json
+C:\Users\Rob\source\repos\cleveBatteryBalance\cleveBatteryBalance\bin\Debug\netcoreapp3.1\cleveBatteryBalance.dll
+C:\Users\Rob\source\repos\cleveBatteryBalance\cleveBatteryBalance\bin\Debug\netcoreapp3.1\cleveBatteryBalance.pdb
+C:\Users\Rob\source\repos\cleveBatteryBalance\cleveBatteryBalance\obj\Debug\netcoreapp3.1\cleveBatteryBalance.csprojAssemblyReference.cache
+C:\Users\Rob\source\repos\cleveBatteryBalance\cleveBatteryBalance\obj\Debug\netcoreapp3.1\cleveBatteryBalance.AssemblyInfoInputs.cache
+C:\Users\Rob\source\repos\cleveBatteryBalance\cleveBatteryBalance\obj\Debug\netcoreapp3.1\cleveBatteryBalance.AssemblyInfo.cs
+C:\Users\Rob\source\repos\cleveBatteryBalance\cleveBatteryBalance\obj\Debug\netcoreapp3.1\cleveBatteryBalance.csproj.CoreCompileInputs.cache
+C:\Users\Rob\source\repos\cleveBatteryBalance\cleveBatteryBalance\obj\Debug\netcoreapp3.1\cleveBatteryBalance.dll
+C:\Users\Rob\source\repos\cleveBatteryBalance\cleveBatteryBalance\obj\Debug\netcoreapp3.1\cleveBatteryBalance.pdb
+C:\Users\Rob\source\repos\cleveBatteryBalance\cleveBatteryBalance\obj\Debug\netcoreapp3.1\cleveBatteryBalance.genruntimeconfig.cache
